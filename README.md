@@ -5,5 +5,5 @@
 
 
 ### Catalog:
-**• Heist Game: Can you get away with the biggest haul?
+**• Heist Game: Can you get away with the biggest haul?**
 

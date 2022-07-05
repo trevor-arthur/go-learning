@@ -10,3 +10,7 @@
 **• Space Travel:** Travel the solar system in this space travel simulator!
 
 **• Order Food:** Are you hungry? Order some fast food now!
+
+**• Catnapped:** Where did your cat go, and who napped him in the first place?
+
+**• Currency Converter:** Check out what your USD is in another currency!

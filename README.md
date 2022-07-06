@@ -14,3 +14,5 @@
 **• Catnapped:** Where did your cat go, and who napped him in the first place?
 
 **• Currency Converter:** Check out what your USD is in another currency!
+
+**• Stock Market:** Ride the bulls and bears of the market in this stock market simulator!
